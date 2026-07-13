@@ -59,11 +59,10 @@
 
 ### 1. Clone or Download
 
-```bash
 git clone https://github.com/illusiveai7/veritas.git
 cd veritas
 
-## 2. One-Click Setup (Recommended)
+### 2. One-Click Setup (Recommended)
 Choose your platform:
 
 🐧 Linux / macOS
@@ -74,5 +73,6 @@ chmod +x setup.sh
 🪟 Windows
 
 setup.bat
+
 
 ![Screenshot](setupbat.png)
