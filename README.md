@@ -1,4 +1,4 @@
-# VERITAS - OSINT Reconnaissance & Intelligence Tool
+# VERITAS - OSINT Reconnaissance & Intelligence Tool.
 
 > *"Veritas" - Uncovering digital truth, one search at a time.*
 
